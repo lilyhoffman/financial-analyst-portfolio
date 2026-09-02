@@ -9,4 +9,4 @@ Built a 2026–2028 financial forecast using historical financial statements, ma
 
 **Skills:** Financial Modeling, Forecasting, Scenario Analysis, Financial Statement Analysis, Excel
 
-[View Project](Netflix Financial Performance & Forecasting)
+[View Project](./netflix-financial-performance-forecasting)
