@@ -10,3 +10,11 @@ Built a 2026–2028 financial forecast using historical financial statements, ma
 **Skills:** Financial Modeling, Forecasting, Scenario Analysis, Financial Statement Analysis, Excel
 
 [View Project](./netflix-financial-performance-forecasting)
+
+### MFR Analytics - FP&A Budget & Variance Analysis
+
+Built a three-year FP&A model for a fictional SaaS company, including annual budgets, monthly actuals, and budget-to-actual variance analysis. Developed an interactive Tableau dashboard to track financial performance, departmental spending, and key profitability metrics.
+
+**Skills:** FP&A, Budgeting, Variance Analysis, Financial Modeling, KPI Reporting, Excel, Tableau
+
+[View Project](./mfr-analytics-fpa-budget-variance-analysis)
