@@ -18,3 +18,11 @@ Built a three-year FP&A model for a fictional SaaS company, including annual bud
 **Skills:** FP&A, Budgeting, Variance Analysis, Financial Modeling, KPI Reporting, Excel, Tableau
 
 [View Project](./mfr-analytics-fpa-budget-variance-analysis)
+
+### MFR Analytics - Capital Investment Analysis
+
+Evaluated a $7.5M investment in a new AI-powered analytics product using a five-year financial model. Analyzed NPV, IRR, ROI, and payback period across Downside, Base, and Upside scenarios to assess investment viability and support a conditional approval recommendation.
+
+**Skills:** Capital Budgeting, NPV, IRR, ROI Analysis, Payback Analysis, Financial Modeling, Scenario Analysis, Excel
+
+[View Project](mfr-analytics-capital-investment-analysis) 
