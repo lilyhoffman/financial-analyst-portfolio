@@ -26,3 +26,11 @@ Evaluated a $7.5M investment in a new AI-powered analytics product using a five-
 **Skills:** Capital Budgeting, NPV, IRR, ROI Analysis, Payback Analysis, Financial Modeling, Scenario Analysis, Excel
 
 [View Project](mfr-analytics-capital-investment-analysis) 
+
+### Superstore Financial Performance & Profitability Analysis
+
+Analyzed $2.3M in Superstore sales using Python and SQL to identify profitability drivers across products, regions, customer segments, and discount levels. Developed interactive Tableau dashboards to visualize financial performance and highlight key profitability risks.
+
+**Skills:** Financial Analysis, Profitability Analysis, KPI Analysis, Python, SQL, Tableau
+
+[View Project](superstore-financial-performance-profitability-analysis)
